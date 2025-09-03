@@ -1,0 +1,13 @@
+
+
+export function Inscription() {
+
+  return (
+      <>
+          
+      
+      
+      </>
+  )
+     
+}
